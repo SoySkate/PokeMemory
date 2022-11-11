@@ -1,5 +1,6 @@
 LIST OF PENDING stuff:
 
+
 -responsive letra Game of Pokememory
 -change background dimage of pc dimension
 -cagaaste div que se ve bien
