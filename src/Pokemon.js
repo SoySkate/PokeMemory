@@ -63,6 +63,7 @@ export default function Pokemon() {
    }
    const restartFunction =()=>{
     setOpenedCards([null])
+    setOpened(false)
     return fetchPokes();
   }
  
